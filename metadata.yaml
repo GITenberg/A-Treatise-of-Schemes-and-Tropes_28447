@@ -1,0 +1,31 @@
+_repo: A-Treatise-of-Schemes-and-Tropes_28447
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Hildebrandt, Herbert William
+    alias: Hildebrandt, Herbert W. (Herbert William)
+    birthdate: 1931
+    gutenberg_agent_id: '33340'
+    url: http://www.gutenberg.org/2009/agents/33340
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sherry, Richard
+    gutenberg_agent_id: '33279'
+    url: http://www.gutenberg.org/2009/agents/33279
+description: ''
+gutenberg_issued: '2009-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28447'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Figures of speech'
+title: A Treatise of Schemes and Tropes
+url: http://www.gutenberg.org/ebooks/28447
